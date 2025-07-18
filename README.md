@@ -10,7 +10,7 @@
     <h2>APIs</h2> 
     <ul><li><a>API de clima (Open Meteo) integrado ao Sistema de Gerenciamento Acadêmico: (link: https://open-meteo.com/) </a></li></ul>
     <ul><li><a>API de gráfico, implementado pela dupla, para controlar a quantidade de provas aplicadas por um professor em um certo período </a></li></ul>
-    <h2>OBSERVAÇÃO IMPORTANTE: Todos os dados presentes no banco de dados e utilizados neste sistema são fictícios, gerados exclusivamente para fins de simulação e desenvolvimento, não se referindo a pessoas ou informações reais.</h2>
+    <h2>OBSERVAÇÃO IMPORTANTE: Todos os dados presentes no banco de dados e utilizados neste sistema são fictícios, gerados exclusivamente para fins de simulação e desenvolvimento, não se referindo a pessoas ou informações reais. Dados pessoais ficiticios oriundos da paltaforma "4 Devs Ferramentas OnLine: Gerador de documentos de pessoas (Nome, RG, CPF, CEP, Endereço, Telefone, etc)", site: https://www.4devs.com.br/gerador_de_pessoas</h2>
     <h2>Dupla</h2>
     <h3>Juliana de Souza</h3>
     <h3>Sander Gustavo Piva</h3>
